@@ -1,0 +1,7 @@
+langchain
+langchain_huggingface
+langchain_groq
+chromadb
+pypdf
+sentence-transformers
+gradio
