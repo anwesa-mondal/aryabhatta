@@ -1,6 +1,6 @@
 # Aryabhatta
 
-![License](https://img.shields.io/github/license/anwesa-mondal/aryabhatta)
+![License](https://img.shields.io/github/license/anwesa-mondal/aryabhatta?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/anwesa-mondal/aryabhatta)
 ![Forks](https://img.shields.io/github/forks/anwesa-mondal/aryabhatta)
 ![Issues](https://img.shields.io/github/issues/anwesa-mondal/aryabhatta)
