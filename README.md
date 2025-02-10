@@ -16,11 +16,12 @@ Aryabhatta is a repository dedicated to astronomy. Ask any doubt regarding stars
 ## 📂 Repository Structure
 ```
 📦 aryabhatta
+├── 📄 LICENSE            # License information
 ├── 📄 README.md          # Project documentation
 ├── 📄 app.py             # Source code for deployment
 ├── 📄 chatbot.ipynb      # jupyter notebook code
-├── 📄 requirements.txt   # Library requirements
-└── 📄 LICENSE            # License information
+└── 📄 requirements.txt   # Library requirements
+
 ```
 
 ## 🔧 Installation
@@ -42,7 +43,7 @@ Contributions are welcome! To contribute:
 5. Open a Pull Request.
 
 ## 📝 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Acknowledgments
 Special thanks to all contributors and the open-source community for their support!
